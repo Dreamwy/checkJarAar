@@ -26,5 +26,5 @@ editor
 find the same file
 ![image](https://github.com/Dreamwy/checkJarAar/blob/master/img/2.png)
 
-no same
+not the same
 ![image](https://github.com/Dreamwy/checkJarAar/blob/master/img/3.png)
